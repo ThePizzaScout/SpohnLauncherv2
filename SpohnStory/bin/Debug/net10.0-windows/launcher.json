@@ -1,0 +1,8 @@
+{
+  "ApiUrl": "http://localhost:3000",
+  "ClientPath": "C:\\Program Files (x86)\\Steam\\steamapps\\content\\app_216150\\depot_216151",
+  "AutoDetectClient": true,
+  "Theme": "Dark",
+  "AuthToken": null,
+  "LastLogin": null
+}
